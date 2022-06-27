@@ -1,0 +1,12 @@
+body {
+    margin: 100px;
+}
+
+.button:hover {
+    border-bottom: 2px solid blue;
+    background-color: rgb(234, 234, 234);
+}
+
+.button:focus {
+    border-bottom: 2px solid blue;
+}
